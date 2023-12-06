@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffaa00
+    color: #ffaa00;
     text-decoration: underline;
 }
 
